@@ -1,0 +1,145 @@
+** Plate Changelog **
+
+06 April 2019, Version 1.4.5
+	* New: Add support for the new `wp_body_open` hook in WordPress 5.2+
+	* Tweak: Admin 1.6.1
+
+22 December 2018, Version 1.4.4
+	Fixes & Updates:
+		* Fixed social media icon alignment
+
+
+21 December 2018, Version 1.4.3
+	Fixes & Updates:
+		* Fixed custom logo display bug
+		* Fixed improper styling on the footer copyright text
+		* Added minified Customizer JS and editor stylesheet assets with auto-prefixing
+		* Improved debug mode that works with minified asset delivery throughout the entire theme
+
+
+09 November 2018, Version 1.4.2
+	New:
+		* Introduced a new license Customizer control for managing your theme license
+		* Removed the dashboard license widget
+		* Added support for core custom logo functionality
+
+	Fixes & Updates:
+		* Updated /admin/
+		* Migrated the site_logo Customizer option to the core WordPress custom_logo option
+		* Updated Custom CSS to load via wp_enqueue_scripts, for better performance
+		* Updated languages
+
+
+28 November 2017, Version 1.4.1
+	Fixes & Updates:
+		* Added a page transition conditional check for "tel" links
+		* Updated languages
+
+
+24 August 2017, Version 1.4.0
+	New:
+		* Added CSSComb support for more efficient stylesheets
+		* Added Gulp minification to all front-end stylesheets and scripts 🚀
+		* Added the theme version to the dashboard footer to help you stay up to date with what's new
+
+	Fixes & Updates:
+		* Updated /admin/ to v1.1.2
+		* Improved script loading on the front-end
+		* Organized css/image/js assets into the /assets/ folder
+		* Added conditional checks for Envato Hosted accounts
+		* Updated file headers
+		* Updated languages
+
+
+06 March 2017, Version 1.3.1
+    New:
+        * Added the theme version to the dashboard footer, next to the WordPress version
+        * Updated get_parent_theme_path() to get_theme_file_path() for more efficient child theming
+        * Override any file, by including a file in the same directory location from within your child theme
+        * Customize sprite icons simply by including your own images/sprite.svg file within your child theme
+        * Incorporated the WordPress 4.7 get_theme_file_uri() function for enhanced child theming
+        * Incorporated the WordPress 4.7 get_parent_theme_file_path() function for enhanced child theming
+        * Improved performance by adding resource hints to browsers for pre-fetching, pre-rendering and pre-connecting for Google fonts
+        * Added new SVG icon functions for improved SVG performance
+
+    Fixes & Updates:
+        * Updated languages
+
+
+28 November 2016, Version 1.3.0
+    New:
+        * All-new mobile menu dropdown functionality
+        * Added new plate_body_classes() function
+    Fixes & Updates:
+        * Updated languages
+
+
+17 November 2016, Version 1.2.1
+    New:
+        * Added Animistion.js support for better page animations
+    Fixes & Updates:
+        * Updated Customizer sanitization callbacks
+        * Updated languages
+
+
+10 October 2016, Version 1.2.0
+    New:
+        * TGM Plugin Activation support
+    Fixes & Updates:
+        * Improved theme updater class
+        * Updater class now requires admin permissions
+        * Updated pingback header function
+        * Properly escaped translation strings
+        * Security audit and relevant optimizations
+        * Improved email sanitization callbacks
+        * Updated languages
+
+
+11 July 2016, Version 1.1.1
+    Fixes & Updates:
+        * Added label filters to the contact form template (NEW)
+            - https://gist.github.com/richtabor/8de5c4e04c7fde2d4741573bf4f4df0d
+        * Updated languages
+
+
+07 July 2016, Version 1.1.0
+    New:
+        * Added dropdown support for mobile (NEW)
+        * Added psd/plate.psd (NEW)
+    Fixes & Updates:
+        * Updated languages
+
+
+22 June 2016, Version 1.0.5
+    New:
+        * Added new filters to the contact form template (NEW)
+    Fixes & Updates:
+        * Updated email SVG icon
+        * Updated feedback module
+        * Updated contact form to use is_email validation
+        * Updated languages
+
+
+03 June 2016, Version 1.0.4
+    Fixes & Updates:
+        * Updated Instagram SVG icon
+
+
+22 May 2016, Version 1.0.3
+    Fixes & Updates:
+        * SVG performance update
+
+
+16 May 2016, Version 1.0.2
+    Fixes & Updates:
+        * Social navigation SVG sprite
+        * Updated languages
+
+
+16 April 2016, Version 1.0.1
+    Fixes & Updates:
+        * Updated languages
+
+
+08 April 2016, Version 1.0.0
+        * Initial release

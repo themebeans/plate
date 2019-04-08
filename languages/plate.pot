@@ -1,0 +1,1002 @@
+# Copyright (C) 2019 Plate
+# This file is distributed under the same license as the Plate package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Plate\n"
+"Report-Msgid-Bugs-To: https://themebeans.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Rich Tabor of ThemeBeans\n"
+"Language-Team: ThemeBeans\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:25
+msgid "Sorry, this page does not exist"
+msgstr ""
+
+#: 404.php:33
+msgid "Go back to home"
+msgstr ""
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:55
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:54
+msgid "Social Links Menu"
+msgstr ""
+
+#: functions.php:84
+msgid "Primary"
+msgstr ""
+
+#: functions.php:85, functions.php:199, inc/customizer/customizer.php:757
+msgid "Footer"
+msgstr ""
+
+#: functions.php:86
+msgid "Social"
+msgstr ""
+
+#: functions.php:163
+msgid "Single Post"
+msgstr ""
+
+#: functions.php:165
+msgid "Appears on the blogroll and single post pages."
+msgstr ""
+
+#: functions.php:175
+msgid "Single Page"
+msgstr ""
+
+#: functions.php:177
+msgid "Appears on the single pages if a widget area layout is selected."
+msgstr ""
+
+#: functions.php:187
+msgid "Home"
+msgstr ""
+
+#: functions.php:189
+msgid "Appears on the home template."
+msgstr ""
+
+#: functions.php:201
+msgid "Appears above the fullwith footer, on all pages and posts. You may use widgets labeled \"Home\" here."
+msgstr ""
+
+#: functions.php:214
+msgid "Footer Column 1"
+msgstr ""
+
+#: functions.php:216
+msgid "Appears on the first column of the footer, on all pages and posts."
+msgstr ""
+
+#: functions.php:226
+msgid "Footer Column 2"
+msgstr ""
+
+#: functions.php:228
+msgid "Appears on the second column of the footer, on all pages and posts."
+msgstr ""
+
+#: functions.php:238
+msgid "Footer Column 3"
+msgstr ""
+
+#: functions.php:240
+msgid "Appears on the third column of the footer, on all pages and posts."
+msgstr ""
+
+#: functions.php:334
+msgctxt "Pt Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:339
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:512
+msgid "Password:"
+msgstr ""
+
+#: functions.php:512
+msgid "Enter password here & press enter..."
+msgstr ""
+
+#: functions.php:512
+msgid "Submit"
+msgstr ""
+
+#: functions.php:565
+msgid "<b class=\"fn\">%s</b> <span class=\"says\">says:</span>"
+msgstr ""
+
+#: functions.php:571
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:575, inc/widgets/widget-grid-gallery.php:96, inc/widgets/widget-parallax-gallery.php:79
+msgid "Edit"
+msgstr ""
+
+#: functions.php:590
+msgid "Awaiting moderation"
+msgstr ""
+
+#: inc/customizer/customizer.php:35
+msgid "Hero Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:48
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:49
+msgid "Customize various options throughout the theme with the settings within this panel."
+msgstr ""
+
+#: inc/customizer/customizer.php:70
+msgid "Logo Max Width"
+msgstr ""
+
+#: inc/customizer/customizer.php:88
+msgid "Colors"
+msgstr ""
+
+#: inc/customizer/customizer.php:103, inc/customizer/customizer.php:525
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:104
+msgid "Select a background color for the site. This will be applied globally throughout the site."
+msgstr ""
+
+#: inc/customizer/customizer.php:120
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:121
+msgid "Select a text color for the site. This applies to all the text throughout the site."
+msgstr ""
+
+#: inc/customizer/customizer.php:137
+msgid "Accent Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:138
+msgid "Select a accent color for the site, which is used throughout various elements in the theme."
+msgstr ""
+
+#: inc/customizer/customizer.php:154
+msgid "Header Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:155
+msgid "Select a color for the site typography headers. For example: H1, H2, H3, H4, H5, H6."
+msgstr ""
+
+#: inc/customizer/customizer.php:171
+msgid "Widget Header Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:172
+msgid "Select a color for the headers on the Home template and fullwidth footer area."
+msgstr ""
+
+#: inc/customizer/customizer.php:188
+msgid "404 Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:189
+msgid "Select a background color for the site 404 page."
+msgstr ""
+
+#: inc/customizer/customizer.php:200
+msgid "Hero"
+msgstr ""
+
+#: inc/customizer/customizer.php:215
+msgid "Enable Parallax Fade"
+msgstr ""
+
+#: inc/customizer/customizer.php:216
+msgid "Enable the parallax fade out attribute for the site hero area."
+msgstr ""
+
+#: inc/customizer/customizer.php:231
+msgid "Enable Image Zoom"
+msgstr ""
+
+#: inc/customizer/customizer.php:232
+msgid "Enable the image zoom attribute for the site hero area. This only works on image backgrounds."
+msgstr ""
+
+#: inc/customizer/customizer.php:247, inc/customizer/customizer.php:870
+msgid "Background"
+msgstr ""
+
+#: inc/customizer/customizer.php:248
+msgid "Select the default background color of the hero area. You can override this color on individual pages via the page meta."
+msgstr ""
+
+#: inc/customizer/customizer.php:264
+msgid "Title Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:265
+msgid "Select the text color of the hero area header."
+msgstr ""
+
+#: inc/customizer/customizer.php:276, inc/customizer/customizer.php:290
+msgid "Hero Format"
+msgstr ""
+
+#: inc/customizer/customizer.php:294, inc/customizer/customizer.php:693, inc/widgets/widget-ad.php:76
+msgid "Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:295
+msgid "Video"
+msgstr ""
+
+#: inc/customizer/customizer.php:310
+msgid "Force the video on all pages."
+msgstr ""
+
+#: inc/customizer/customizer.php:327
+msgid "Poster Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:328
+msgid "Upload a poster imag (.JPG) for your video, to show on mobile devices. Your video and poster must have the same file names."
+msgstr ""
+
+#: inc/customizer/customizer.php:347
+msgid "Upload Video MP4"
+msgstr ""
+
+#: inc/customizer/customizer.php:366
+msgid "Upload Video WebM"
+msgstr ""
+
+#: inc/customizer/customizer.php:385
+msgid "Upload Video OVG"
+msgstr ""
+
+#: inc/customizer/customizer.php:399
+msgid "Navigation"
+msgstr ""
+
+#: inc/customizer/customizer.php:414
+msgid "Enable Fixed Navigation"
+msgstr ""
+
+#: inc/customizer/customizer.php:415
+msgid "Enable the fixed navigation element on desktop."
+msgstr ""
+
+#: inc/customizer/customizer.php:430, inc/customizer/customizer.php:542, inc/customizer/customizer.php:887
+msgid "Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:431
+msgid "Select the default text color of links in the main navigational element of the theme."
+msgstr ""
+
+#: inc/customizer/customizer.php:447
+msgid "Fixed Background"
+msgstr ""
+
+#: inc/customizer/customizer.php:448
+msgid "Select the background color of the active state of a link on the fixed navigation."
+msgstr ""
+
+#: inc/customizer/customizer.php:465
+msgid "Fixed Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:466
+msgid "Select the default text color of links in the fixed navigational element of the theme."
+msgstr ""
+
+#: inc/customizer/customizer.php:478
+msgid "Announcement"
+msgstr ""
+
+#: inc/customizer/customizer.php:493
+msgid "Enable Announcement Bar"
+msgstr ""
+
+#: inc/customizer/customizer.php:494
+msgid "Enable the announcemnet bar above the site content throughout the website."
+msgstr ""
+
+#: inc/customizer/customizer.php:509
+msgid "Announcement Text"
+msgstr ""
+
+#: inc/customizer/customizer.php:510
+msgid "Add the announcement text to be added to the announcement bar."
+msgstr ""
+
+#: inc/customizer/customizer.php:526
+msgid "Select a color for background of the announcement bar."
+msgstr ""
+
+#: inc/customizer/customizer.php:543
+msgid "Select a text color for the announcement bar paragraph text."
+msgstr ""
+
+#: inc/customizer/customizer.php:554
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer/customizer.php:569
+msgid "Post Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:572
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer/customizer.php:573
+msgid "Fullwidth"
+msgstr ""
+
+#: inc/customizer/customizer.php:588
+msgid "Show post categories"
+msgstr ""
+
+#: inc/customizer/customizer.php:589
+msgid "Enable post category meta beneath the single post in the entry footer."
+msgstr ""
+
+#: inc/customizer/customizer.php:604
+msgid "Show post tags"
+msgstr ""
+
+#: inc/customizer/customizer.php:605
+msgid "Enable post tag meta beneath the single post in the entry footer."
+msgstr ""
+
+#: inc/customizer/customizer.php:615
+msgid "Contact"
+msgstr ""
+
+#: inc/customizer/customizer.php:630
+msgid "Email Address"
+msgstr ""
+
+#: inc/customizer/customizer.php:631
+msgid "Enter the email address you would like the contact form to send to."
+msgstr ""
+
+#: inc/customizer/customizer.php:646, inc/customizer/customizer.php:745
+msgid "Contact Button"
+msgstr ""
+
+#: inc/customizer/customizer.php:647
+msgid "Enter the text of the contact form button."
+msgstr ""
+
+#: inc/customizer/customizer.php:662
+msgid "Map Shortcode"
+msgstr ""
+
+#: inc/customizer/customizer.php:663
+msgid "Add a map to your contact template via Google Maps Builder by adding in a map shortcode."
+msgstr ""
+
+#: inc/customizer/customizer.php:678
+msgid "Map Address"
+msgstr ""
+
+#: inc/customizer/customizer.php:679
+msgid "Add your address to be overlaid on the contact template map section."
+msgstr ""
+
+#: inc/customizer/customizer.php:694
+msgid "Upload an image to show on the contact template."
+msgstr ""
+
+#: inc/customizer/customizer.php:711
+msgid "Address Background"
+msgstr ""
+
+#: inc/customizer/customizer.php:712
+msgid "Select a background color for address circle overlay on the map."
+msgstr ""
+
+#: inc/customizer/customizer.php:728
+msgid "Address Text"
+msgstr ""
+
+#: inc/customizer/customizer.php:729
+msgid "Select a text color for address circle overlay on the map."
+msgstr ""
+
+#: inc/customizer/customizer.php:746
+msgid "Select a background color for contact form submit button."
+msgstr ""
+
+#: inc/customizer/customizer.php:772, inc/meta/meta-page.php:31
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:773
+msgid "Select a centered and fullwidth layout option, or a columned footer widget area."
+msgstr ""
+
+#: inc/customizer/customizer.php:776
+msgid "Fullwidth, Centered"
+msgstr ""
+
+#: inc/customizer/customizer.php:777
+msgid "Three Column, Widgets"
+msgstr ""
+
+#: inc/customizer/customizer.php:792
+msgid "Powered by Plate"
+msgstr ""
+
+#: inc/customizer/customizer.php:807
+msgid "Powered by WordPress"
+msgstr ""
+
+#: inc/customizer/customizer.php:822
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer/customizer.php:823
+msgid "Add custom footer copy after the copyright."
+msgstr ""
+
+#: inc/customizer/customizer.php:837
+msgid "Footer Logo"
+msgstr ""
+
+#: inc/customizer/customizer.php:854
+msgid "Retina Logo Width"
+msgstr ""
+
+#: inc/customizer/customizer.php:855
+msgid "This value should be equal to half of the footer logo image width (in px)."
+msgstr ""
+
+#: inc/customizer/customizer.php:872
+msgid "Select the background color for the site footer element."
+msgstr ""
+
+#: inc/customizer/customizer.php:889
+msgid "Select the text color for the site footer element."
+msgstr ""
+
+#: inc/customizer/customizer.php:905
+msgid "Widget Title Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:906
+msgid "Select a color for the widget titles."
+msgstr ""
+
+#: inc/customizer/customizer.php:923
+msgid "Widget Text Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:924
+msgid "Select a color for the widget text."
+msgstr ""
+
+#: inc/customizer/customizer.php:941
+msgid "Widget Link Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:942
+msgid "Select a color for links within each widget."
+msgstr ""
+
+#: inc/customizer/customizer.php:959
+msgid "Widget Link Hover Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:960
+msgid "Select a hover color for links within each widget."
+msgstr ""
+
+#: inc/icons.php:43
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: inc/icons.php:48
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: inc/meta/meta-page.php:16
+msgid "Page Options"
+msgstr ""
+
+#: inc/meta/meta-page.php:23
+msgid "Display Page Header"
+msgstr ""
+
+#: inc/meta/meta-page.php:24
+msgid ""
+msgstr ""
+
+#: inc/meta/meta-page.php:32
+msgid "Select the layout for this page."
+msgstr ""
+
+#: inc/meta/meta-page.php:37
+msgid "Default"
+msgstr ""
+
+#: inc/meta/meta-page.php:38
+msgid "50/50 Sidebar Area"
+msgstr ""
+
+#: inc/meta/meta-page.php:43
+msgid "Hero Background Color"
+msgstr ""
+
+#: inc/meta/meta-page.php:44
+msgid "Modify the background color of hero area on this page."
+msgstr ""
+
+#: inc/meta/meta-post.php:16
+msgid "Post Settings"
+msgstr ""
+
+#: inc/meta/meta-post.php:23
+msgid "Grid Image"
+msgstr ""
+
+#: inc/meta/meta-post.php:24
+msgid "Insert a image to use on the blogroll grid."
+msgstr ""
+
+#: inc/meta/meta-post.php:35
+msgid "Video Settings"
+msgstr ""
+
+#: inc/meta/meta-post.php:42
+msgid "Lightbox Embed:"
+msgstr ""
+
+#: inc/meta/meta-post.php:43
+msgid "Insert a embeded URL for a video lightbox."
+msgstr ""
+
+#: inc/meta/meta-post.php:50
+msgid "Embed:"
+msgstr ""
+
+#: inc/meta/meta-post.php:51
+msgid "Alternatively, insert an embed code."
+msgstr ""
+
+#: inc/meta/meta-team.php:16
+msgid "Team Member Settings"
+msgstr ""
+
+#: inc/meta/meta-team.php:23
+msgid "Role:"
+msgstr ""
+
+#: inc/meta/meta-team.php:24
+msgid "Display this team member&#39;s position."
+msgstr ""
+
+#: inc/meta/meta-team.php:31
+msgid "Quote:"
+msgstr ""
+
+#: inc/meta/meta-team.php:32
+msgid "Display a small quote on image hover."
+msgstr ""
+
+#: inc/meta/meta-team.php:39
+msgid "External URL:"
+msgstr ""
+
+#: inc/meta/meta-team.php:40
+msgid "Insert a URL to link this team member to."
+msgstr ""
+
+#: inc/meta/metaboxes.php:88, inc/meta/metaboxes.php:136
+msgid "Insert"
+msgstr ""
+
+#: inc/meta/metaboxes.php:142, inc/meta/metaboxes.php:258
+msgid "Saving..."
+msgstr ""
+
+#: inc/meta/metaboxes.php:198
+msgid "Create Gallery"
+msgstr ""
+
+#: inc/meta/metaboxes.php:205, inc/meta/metaboxes.php:212, inc/meta/metaboxes.php:321, inc/meta/metaboxes.php:323
+msgid "Edit Gallery"
+msgstr ""
+
+#: inc/meta/metaboxes.php:211
+msgid "Cancel"
+msgstr ""
+
+#: inc/meta/metaboxes.php:248
+msgid "Save Gallery"
+msgstr ""
+
+#: inc/meta/metaboxes.php:408
+msgid "Yes, please do"
+msgstr ""
+
+#: inc/plugins.php:24
+msgid "WP Restaurant Manager"
+msgstr ""
+
+#: inc/plugins.php:29
+msgid "Open Table Widget"
+msgstr ""
+
+#: inc/plugins.php:34
+msgid "Business Profile"
+msgstr ""
+
+#: inc/plugins.php:39
+msgid "Restaurant Reservations"
+msgstr ""
+
+#: inc/plugins.php:44
+msgid "Food and Drink Menu"
+msgstr ""
+
+#: inc/plugins.php:49
+msgid "Portfolio Post Type"
+msgstr ""
+
+#: inc/template-tags.php:122
+msgid "Powered by %s"
+msgstr ""
+
+#: inc/template-tags.php:126
+msgid "& %s"
+msgstr ""
+
+#: inc/template-tags.php:253, index.php:53
+msgid "Previous"
+msgstr ""
+
+#: inc/template-tags.php:254, index.php:54
+msgid "Next"
+msgstr ""
+
+#: inc/template-tags.php:255, index.php:55, template-contact.php:48, template-parts/content-page.php:23, template-parts/content-single.php:42, template-parts/content.php:45
+msgid "Page"
+msgstr ""
+
+#: inc/template-tags.php:539
+msgctxt "Used before post meta."
+msgid "Drafted by"
+msgstr ""
+
+#: inc/template-tags.php:540
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr ""
+
+#: inc/template-tags.php:543
+msgctxt "Used after post author name."
+msgid "on"
+msgstr ""
+
+#: inc/template-tags.php:557
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:584
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr ""
+
+#: inc/template-tags.php:602
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:609
+msgctxt "Used before category names."
+msgid "in"
+msgstr ""
+
+#: inc/template-tags.php:629
+msgctxt "Used between list items, there is a space after the comma."
+msgid " "
+msgstr ""
+
+#: inc/template-tags.php:707
+msgid "Comment navigation"
+msgstr ""
+
+#: inc/template-tags.php:710
+msgid "Older Comments"
+msgstr ""
+
+#: inc/template-tags.php:714
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/widgets/widget-ad.php:17
+msgid "Sidebar Ad"
+msgstr ""
+
+#: inc/widgets/widget-ad.php:20
+msgid "Displays a linkable image advertisement."
+msgstr ""
+
+#: inc/widgets/widget-ad.php:71, inc/widgets/widget-content-block.php:120, inc/widgets/widget-cta.php:122, inc/widgets/widget-location.php:112, inc/widgets/widget-split-screen.php:145, inc/widgets/widget-tagline.php:100
+msgid "Button URL:"
+msgstr ""
+
+#: inc/widgets/widget-ad.php:84, inc/widgets/widget-content-block.php:164, inc/widgets/widget-cta.php:135, inc/widgets/widget-fullscreen-title.php:114, inc/widgets/widget-lightbox-video.php:92, inc/widgets/widget-page.php:131, inc/widgets/widget-split-screen.php:158
+msgid "No image selected"
+msgstr ""
+
+#: inc/widgets/widget-ad.php:89, inc/widgets/widget-column-blocks.php:155, inc/widgets/widget-content-block.php:169, inc/widgets/widget-cta.php:140, inc/widgets/widget-features-3col.php:162, inc/widgets/widget-fullscreen-title.php:119, inc/widgets/widget-lightbox-video.php:97, inc/widgets/widget-page.php:136, inc/widgets/widget-split-screen.php:163
+msgid "Change Image"
+msgstr ""
+
+#: inc/widgets/widget-ad.php:89, inc/widgets/widget-column-blocks.php:155, inc/widgets/widget-content-block.php:169, inc/widgets/widget-cta.php:140, inc/widgets/widget-features-3col.php:162, inc/widgets/widget-fullscreen-title.php:119, inc/widgets/widget-lightbox-video.php:97, inc/widgets/widget-page.php:136, inc/widgets/widget-split-screen.php:163
+msgid "Select Image"
+msgstr ""
+
+#: inc/widgets/widget-column-blocks.php:17
+msgid "Column Blocks"
+msgstr ""
+
+#: inc/widgets/widget-column-blocks.php:20
+msgid "Displays up to three blocks across. For use in the \"Home\" widget area."
+msgstr ""
+
+#: inc/widgets/widget-column-blocks.php:133
+msgid "Column"
+msgstr ""
+
+#: inc/widgets/widget-column-blocks.php:138, inc/widgets/widget-features-3col.php:145
+msgid "Link"
+msgstr ""
+
+#: inc/widgets/widget-column-blocks.php:150, inc/widgets/widget-features-3col.php:157
+msgid "No image uploaded"
+msgstr ""
+
+#: inc/widgets/widget-column-blocks.php:165, inc/widgets/widget-content-block.php:177, inc/widgets/widget-fullscreen-title.php:127
+msgid "Overlay Color:"
+msgstr ""
+
+#: inc/widgets/widget-column-blocks.php:177, inc/widgets/widget-fullscreen-title.php:139, inc/widgets/widget-title.php:104
+msgid "Text Color:"
+msgstr ""
+
+#: inc/widgets/widget-content-block.php:17
+msgid "Content Block"
+msgstr ""
+
+#: inc/widgets/widget-content-block.php:20
+msgid "Displays a right, left or centered content block. For use in the \"Home\" widget area."
+msgstr ""
+
+#: inc/widgets/widget-content-block.php:106, inc/widgets/widget-fullscreen-title.php:96, inc/widgets/widget-page-fullwidth.php:101, inc/widgets/widget-page.php:104, inc/widgets/widget-title.php:89
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/widget-content-block.php:115, inc/widgets/widget-cta.php:117, inc/widgets/widget-location.php:107, inc/widgets/widget-split-screen.php:140, inc/widgets/widget-tagline.php:95
+msgid "Button Text:"
+msgstr ""
+
+#: inc/widgets/widget-content-block.php:125
+msgid "Block Position:"
+msgstr ""
+
+#: inc/widgets/widget-content-block.php:127, inc/widgets/widget-split-screen.php:120
+msgid "Left"
+msgstr ""
+
+#: inc/widgets/widget-content-block.php:136, inc/widgets/widget-split-screen.php:129
+msgid "Right"
+msgstr ""
+
+#: inc/widgets/widget-content-block.php:145
+msgid "Centered"
+msgstr ""
+
+#: inc/widgets/widget-content-block.php:156, inc/widgets/widget-cta.php:127, inc/widgets/widget-fullscreen-title.php:106, inc/widgets/widget-lightbox-video.php:84, inc/widgets/widget-page.php:123, inc/widgets/widget-split-screen.php:150
+msgid "Background Image"
+msgstr ""
+
+#: inc/widgets/widget-cta.php:17
+msgid "Call to Action"
+msgstr ""
+
+#: inc/widgets/widget-cta.php:20
+msgid "Displays a fullscreen call to action. For use in the \"Home\" widget area."
+msgstr ""
+
+#: inc/widgets/widget-cta.php:108, inc/widgets/widget-location.php:97, inc/widgets/widget-split-screen.php:110, inc/widgets/widget-tagline.php:86
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/widget-features-3col.php:17
+msgid "Features, 3 Col"
+msgstr ""
+
+#: inc/widgets/widget-features-3col.php:20
+msgid "Displays a 3 column feature set. For use in the \"Home\" widget area."
+msgstr ""
+
+#: inc/widgets/widget-features-3col.php:136
+msgid "Feature"
+msgstr ""
+
+#: inc/widgets/widget-fullscreen-title.php:17
+msgid "Title Fullscreen Block"
+msgstr ""
+
+#: inc/widgets/widget-fullscreen-title.php:20
+msgid "Displays a fullscreen title block. For use in the \"Home\" widget area."
+msgstr ""
+
+#: inc/widgets/widget-fullscreen-title.php:101
+msgid "Optional URL:"
+msgstr ""
+
+#: inc/widgets/widget-grid-gallery.php:17
+msgid "Grid Gallery"
+msgstr ""
+
+#: inc/widgets/widget-grid-gallery.php:20
+msgid "Displays a grid gallery. For use in the \"Home\" widget area."
+msgstr ""
+
+#: inc/widgets/widget-grid-gallery.php:97, inc/widgets/widget-parallax-gallery.php:80
+msgid "Add"
+msgstr ""
+
+#: inc/widgets/widget-lightbox-video.php:17
+msgid "Video Lightbox"
+msgstr ""
+
+#: inc/widgets/widget-lightbox-video.php:20
+msgid "Displays a clickable lightbox video area. For use in the \"Home\" widget area."
+msgstr ""
+
+#: inc/widgets/widget-lightbox-video.php:79
+msgid "Video Share Link:"
+msgstr ""
+
+#: inc/widgets/widget-location.php:17
+msgid "Location"
+msgstr ""
+
+#: inc/widgets/widget-location.php:20
+msgid "Displays a location map. For use in the \"Home\" widget area."
+msgstr ""
+
+#: inc/widgets/widget-location.php:102
+msgid "Address:"
+msgstr ""
+
+#: inc/widgets/widget-location.php:117
+msgid "Map Shortcode:"
+msgstr ""
+
+#: inc/widgets/widget-page-fullwidth.php:17
+msgid "Page Fullwidth Content"
+msgstr ""
+
+#: inc/widgets/widget-page-fullwidth.php:20
+msgid "Displays fullwidth page content. For use in the \"Home\" widget area."
+msgstr ""
+
+#: inc/widgets/widget-page-fullwidth.php:107, inc/widgets/widget-page.php:110
+msgid "Page Content:"
+msgstr ""
+
+#: inc/widgets/widget-page.php:17
+msgid "Page Content"
+msgstr ""
+
+#: inc/widgets/widget-page.php:20
+msgid "Displays page content, selectable via a dropdown element. For use in the \"Home\" widget area."
+msgstr ""
+
+#: inc/widgets/widget-parallax-gallery.php:17
+msgid "Parallax Gallery"
+msgstr ""
+
+#: inc/widgets/widget-parallax-gallery.php:20
+msgid "Displays a fullscreen parallax gallery. For use in the \"Home\" widget area."
+msgstr ""
+
+#: inc/widgets/widget-split-screen.php:17
+msgid "Split Screen"
+msgstr ""
+
+#: inc/widgets/widget-split-screen.php:20
+msgid "Displays a split content area, with an image on one side and text on the other. For use in the \"Home\" widget area."
+msgstr ""
+
+#: inc/widgets/widget-tagline.php:17
+msgid "Tagline"
+msgstr ""
+
+#: inc/widgets/widget-tagline.php:20
+msgid "Displays a tagline text area. For use in the \"Home\" widget area."
+msgstr ""
+
+#: inc/widgets/widget-title.php:17
+msgid "Title Block"
+msgstr ""
+
+#: inc/widgets/widget-title.php:20
+msgid "Displays a title block. For use in the \"Home\" widget area."
+msgstr ""
+
+#: inc/widgets/widget-title.php:94
+msgid "Background Color:"
+msgstr ""
+
+#: template-contact.php:44, template-parts/content-page.php:19, template-parts/content-single.php:38, template-parts/content.php:41
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-form.php:70
+msgid "Your message was sent. Thanks."
+msgstr ""
+
+#: template-parts/content-form.php:80
+msgid "An error occured. Try again."
+msgstr ""
+
+#: template-parts/content-form.php:88, template-parts/content-form.php:89
+msgid "Name"
+msgstr ""
+
+#: template-parts/content-form.php:100, template-parts/content-form.php:101
+msgid "Email"
+msgstr ""
+
+#: template-parts/content-form.php:112, template-parts/content-form.php:113
+msgid "Message"
+msgstr ""
+
+#: template-parts/content-single.php:22, template-parts/content.php:16
+msgid "Featured"
+msgstr ""
+
+#: template-parts/content-single.php:31, template-parts/content.php:31
+msgid "Read more... %s"
+msgstr ""
+
+#: template-parts/content.php:55, template-parts/team-loop.php:65
+msgid "Edit %s"
+msgstr ""
